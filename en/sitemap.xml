@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://yutaro-elk.github.io/blog_test/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://yutaro-elk.github.io/blog_test/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://yutaro-elk.github.io/blog_test/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://yutaro-elk.github.io/blog_test/series/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://yutaro-elk.github.io/blog_test/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://yutaro-elk.github.io/blog_test/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://yutaro-elk.github.io/blog_test/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://yutaro-elk.github.io/blog_test/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://yutaro-elk.github.io/blog_test/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://yutaro-elk.github.io/blog_test/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://yutaro-elk.github.io/blog_test/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://yutaro-elk.github.io/blog_test/"
                 />
   </url>
   
